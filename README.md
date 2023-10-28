@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vini
-- 👀 I’m interested in computer system and wireless
+- 👀 I’m interested in C++, computer systems and wireless
 - 📫 Reach me at viniciusgoncalves_29@hotmail.com
 
 <!---
